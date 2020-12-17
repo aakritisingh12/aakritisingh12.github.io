@@ -98,6 +98,17 @@ button{
 }
 
 @media screen and (max-width:600px){
+/*     .banner{
+        width: 100%;
+        height:50vh;
+        margin: 0 auto;
+        /*bottom: 105% !important;*/
+    } */
+    .banner-text h1 {
+        font-size: 64px;
+        /* text-align: center; */
+        /* margin: 20%; */
+    }
     .contact-form{
         flex-direction: column;
     }
